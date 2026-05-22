@@ -1,0 +1,1868 @@
+hola monika necesito tu ayuda para este proyecto: Descripción General de la Evaluación
+La Evaluación N°3 corresponde al desarrollo de un sistema web dinámico denominado:
+
+“Portafolio Web Profesional Autoadministrable”
+El proyecto tendrá como finalidad desarrollar una aplicación web moderna, responsive y funcional, que permita presentar información profesional del estudiante mediante un sistema dinámico desarrollado con tecnologías frontend y backend.
+
+El sistema deberá integrar:
+
+HTML5
+CSS3
+Bootstrap 5.3.8
+JavaScript
+PHP
+MySQL
+AJAX (si aplica)
+JSON (si aplica)
+GitHub
+Herramientas de Inteligencia Artificial como apoyo al desarrollo
+Objetivo de la Evaluación
+Diseñar e implementar un portafolio web profesional autoadministrable, aplicando buenas prácticas de desarrollo web, diseño responsive, integración frontend-backend, organización estructural y uso ético de herramientas de Inteligencia Artificial.
+
+
+
+Resultado de Aprendizaje Asociado
+RA2
+“Desarrolla aplicaciones web socialmente responsables para un sector productivo y/o social de un contexto real, utilizando herramientas de programación considerando los requerimientos del cliente, desde su fundamentación, planificación, diseño, escritura, resguardando estándares de calidad y normativa vigente”.
+
+Descripción General del Proyecto
+El estudiante deberá desarrollar un portafolio web dinámico y administrable que permita visualizar:
+
+Información personal
+Habilidades técnicas
+Tecnologías dominadas
+Proyectos realizados
+Formulario de contacto
+Sistema de autenticación
+Dashboard administrativo
+El sistema debe estar inspirado y desarrollado en base al wireframe previamente diseñado y entregado por cada estudiante.
+
+
+
+Requerimientos Obligatorios del Sistema
+1. Navbar Responsive
+Debe incluir:
+
+Nombre o logo personal
+Enlaces de navegación:
+Biografía
+Habilidades
+Tecnologías
+Proyectos
+Contacto
+Botón de inicio de sesión
+2. Biografía Profesional
+Debe contener:
+
+Fotografía o avatar
+Nombre completo
+Descripción personal/profesional
+Presentación breve
+3. Habilidades y Herramientas
+Debe mostrar:
+
+Tecnologías dominadas
+Íconos o logos
+Distribución organizada mediante Bootstrap
+Ejemplos:
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+Bootstrap
+GitHub
+IA aplicada al desarrollo web
+4. Tecnologías Dominadas
+Puede representarse mediante:
+
+Barras de progreso
+Tarjetas
+Etiquetas
+Indicadores visuales
+5. Proyectos Realizados
+Cada proyecto deberá incluir:
+
+Título
+Descripción
+Imagen o captura
+Enlace demo
+Enlace GitHub
+6. Formulario de Contacto
+Debe contener:
+
+Nombre
+Correo
+Asunto
+Mensaje
+Botón de envío
+7. Sistema de Inicio de Sesión
+Debe considerar:
+
+Login funcional
+Validación de acceso
+Protección de acceso administrativo
+8. Dashboard Administrativo
+Debe permitir administrar:
+
+Biografía
+Habilidades
+Tecnologías
+Proyectos
+El dashboard puede incluir:
+
+CRUD
+Formularios dinámicos
+Gestión de contenido
+Requerimientos Técnicos Obligatorios
+Frontend
+HTML5 estructurado
+CSS3 organizado
+Bootstrap 5.3.8
+Responsive Design
+JavaScript funcional
+Backend
+PHP
+MySQL
+Conexión a base de datos
+Validación de formularios
+AJAX y JSON
+Opcional según complejidad del proyecto, pero evaluable positivamente si se implementa correctamente.
+
+
+
+Uso Obligatorio de GitHub
+Cada estudiante deberá:
+
+Mantener repositorio GitHub actualizado.
+Realizar commits periódicos durante el desarrollo.
+Criterio esperado
+5 commits o más → máximo puntaje.
+Menos commits → menor evidencia de desarrollo progresivo.
+Uso Obligatorio de Inteligencia Artificial
+El estudiante deberá documentar:
+
+1. Herramientas IA utilizadas
+Ejemplos:
+ChatGPT
+Claude
+Gamma
+Perplexity
+GitHub Copilot
+2. Prompts utilizados
+Debe incluir ejemplos reales.
+
+
+
+3. Resultados generados
+Código, ideas, estructuras o soluciones obtenidas.
+
+
+
+4. Ajustes realizados
+Correcciones o modificaciones efectuadas por el estudiante.
+
+
+
+5. Reflexión crítica
+Análisis sobre:
+
+utilidad,
+ventajas,
+limitaciones,
+aprendizaje obtenido.
+Entregables Obligatorios
+El estudiante deberá entregar:
+
+✅ Proyecto completo en Producción (https://teclab.uct.cl/~usuario/)
+
+✅ Scripts para generar Base de datos SQL en archivo bd.sql
+
+✅ Repositorio GitHub
+
+(Atención: el archivo README.md debe incluir el enlace al proyecto en producción)
+
+✅ Documento de uso de IA
+
+✅ Evidencia del wireframe
+
+✅ Archivo o enlace del diseño Figma utilizado como base del desarrollo
+
+(El diseño Figma debe incorporarse también dentro del repositorio GitHub)
+
+✅ Capturas o video breve funcional (opcional recomendado)
+
+
+
+Consideraciones Importantes
+Fidelidad respecto al wireframe
+El proyecto final deberá mantener coherencia visual y estructural respecto al wireframe previamente desarrollado y entregado.
+
+Se evaluará:
+
+similitud estructural,
+organización visual,
+navegación,
+distribución de contenidos.
+Además, durante la presentación final se contrastará el desarrollo implementado versus el diseño presentado originalmente en Figma.
+
+
+
+Ponderación de la Evaluación
+La evaluación estará dividida en dos componentes:
+
+1. Desarrollo Práctico del Proyecto — 60%
+Corresponde al desarrollo completo del sistema web y a todos los entregables solicitados en esta evaluación.
+
+Este componente considera:
+
+funcionamiento general del sistema,
+estructura del proyecto,
+calidad del desarrollo frontend y backend,
+uso de GitHub,
+implementación técnica,
+integración de base de datos,
+evidencia del uso de IA,
+coherencia con el wireframe y diseño Figma,
+despliegue en producción.
+2. Presentación y Defensa Técnica — 40%
+La presentación se realizará el día lunes 25 de mayo a contar de las 11:30 hrs.
+
+Durante esta instancia, cada estudiante deberá:
+
+Presentar su proyecto funcionando en producción desde el servidor TECLA habilitado.
+Mostrar el repositorio GitHub completo.
+Explicar la estructura de carpetas y organización del código.
+Responder preguntas técnicas realizadas en vivo sobre el desarrollo implementado.
+Mostrar el diseño realizado en Figma para contrastar el resultado final versus la propuesta original de diseño.
+En esta etapa se evaluará especialmente:
+
+dominio técnico del proyecto,
+comprensión del código desarrollado,
+capacidad de explicar decisiones técnicas,
+coherencia entre diseño y desarrollo,
+presentación profesional del trabajo realizado.
+Entrega Oportuna
+Entrega máxima (dentro de plazo)
+23:59 hrs del 24 de mayo.
+
+La entrega fuera de plazo afectará el criterio correspondiente en rúbrica.
+
+
+
+Cierre definitivo de entregas
+11:30 hrs del 25 de mayo.
+
+Posterior a esa hora no se recibirán entregas adicionales.
+
+
+
+Recomendaciones Finales para el Desarrollo
+Se recomienda:
+
+Mantener estructura limpia y ordenada.
+Utilizar Bootstrap de forma consistente.
+Diseñar pensando en experiencia de usuario.
+Aplicar buenas prácticas frontend y backend.
+Utilizar GitHub desde el inicio del proyecto.
+Probar el sistema continuamente.
+Documentar correctamente el uso de IA.
+Mantener coherencia visual con el wireframe original.
+Preparar anticipadamente la presentación y defensa técnica del proyecto.
+Reflexión Final
+El desarrollo de soluciones web modernas requiere integrar diseño visual, programación frontend y backend, manejo de datos, control de versiones, pensamiento crítico y uso responsable de Inteligencia Artificial para resolver problemas reales de manera profesional y ética.
+
+Perfecto. La clave ahora es transformar cada requisito de las instrucciones en algo que cumpla directamente con la columna “Excelente” de la rúbrica.
+
+Voy a mostrarte exactamente:
+
+✅ Qué debe tener cada sección
+✅ Cómo debe verse
+✅ Qué tecnologías usar
+✅ Qué revisará el profesor
+✅ Cómo asegurar el máximo puntaje
+1. FIDELIDAD AL WIREFRAME (10 pts)
+Lo que pide “Excelente”
+
+“El proyecto mantiene alta coherencia visual y estructural con el wireframe original.”
+
+Cómo debe quedar
+
+Tu página final debe conservar:
+
+mismo orden de secciones,
+misma distribución,
+navegación similar,
+estructura general igual al Figma.
+Tu estructura debe quedar así
+Navbar
+↓
+Hero/Biografía
+↓
+Habilidades
+↓
+Tecnologías
+↓
+Proyectos
+↓
+Contacto
+↓
+Footer
+Qué SÍ puedes mejorar
+
+✅ Colores
+✅ Tipografía
+✅ Animaciones
+✅ Responsive
+✅ Sombras
+✅ Iconos
+
+Qué NO debes cambiar
+
+❌ Orden de secciones
+❌ Distribución general
+❌ Navegación principal
+
+2. HTML5 Y ESTRUCTURA SEMÁNTICA (10 pts)
+Lo que pide “Excelente”
+
+Código ordenado, semántico y correctamente estructurado.
+
+Cómo debe verse
+
+Usa etiquetas semánticas:
+
+<header>
+<nav>
+<main>
+<section>
+<footer>
+Estructura ideal
+<body>
+
+<header>
+   <nav></nav>
+</header>
+
+<main>
+
+<section id="hero"></section>
+
+<section id="habilidades"></section>
+
+<section id="tecnologias"></section>
+
+<section id="proyectos"></section>
+
+<section id="contacto"></section>
+
+</main>
+
+<footer></footer>
+
+</body>
+Qué NO hacer
+
+❌ Todo en <div>
+❌ CSS dentro del HTML
+❌ Código desordenado
+
+3. CSS3 Y RESPONSIVE DESIGN (5 pts)
+Lo que pide “Excelente”
+
+Excelente adaptación responsive y estilos organizados.
+
+Cómo debe quedar
+Desktop
+
+Diseño moderno.
+
+Tablet
+
+Contenido ajustado.
+
+Celular
+
+Todo debe verse PERFECTO.
+
+Obligatorio
+Navbar hamburguesa
+navbar-expand-lg
+Grid responsive
+col-lg-4 col-md-6 col-12
+Responsive.css
+
+Debes tener:
+
+@media(max-width:768px){
+
+}
+Qué revisará el profesor
+
+✅ Que no se rompa en celular
+✅ Que no exista scroll horizontal
+✅ Que texto/imágenes se adapten
+
+4. BOOTSTRAP 5.3.8 (5 pts)
+Lo que pide “Excelente”
+
+Uso correcto y avanzado de Bootstrap.
+
+Cómo debe quedar
+
+Debes usar:
+
+✅ Grid System
+✅ Navbar
+✅ Cards
+✅ Buttons
+✅ Forms
+✅ Progress bars
+✅ Modals (opcional)
+
+Ejemplo correcto
+<div class="container">
+<div class="row">
+
+<div class="col-lg-4 col-md-6">
+Qué NO hacer
+
+❌ Solo importar Bootstrap y no usarlo
+❌ Todo hecho manualmente
+
+5. JAVASCRIPT (10 pts)
+Lo que pide “Excelente”
+
+Funcionalidades dinámicas correctamente implementadas.
+
+Qué deberías implementar
+Obligatorio
+
+✅ Menú responsive
+✅ Validaciones formulario
+✅ Animaciones suaves
+
+Lo que te da MUCHOS puntos
+Muy recomendado
+Scroll animations
+window.addEventListener("scroll", () => {
+Validación formulario
+if(nombre === ""){
+   alert("Complete el nombre");
+}
+SweetAlert2
+Swal.fire({
+ title:'Mensaje enviado'
+})
+6. PHP Y BACKEND (15 pts)
+El criterio MÁS importante
+Lo que pide “Excelente”
+
+Backend funcional, ordenado y correctamente conectado.
+
+Qué debes tener SÍ o SÍ
+Login funcional
+session_start();
+Validación usuarios
+SELECT * FROM usuarios
+Dashboard protegido
+if(!isset($_SESSION['usuario'])){
+ header("Location: login.php");
+}
+CRUD funcionando
+
+Debes poder:
+
+✅ Crear
+✅ Leer
+✅ Editar
+✅ Eliminar
+
+Qué administrar
+proyectos
+habilidades
+tecnologías
+biografía
+7. BASE DE DATOS MYSQL (10 pts)
+Lo que pide “Excelente”
+
+Conexión y manejo correcto de datos.
+
+Cómo debe quedar
+Base de datos real
+portfolio_web
+Tablas mínimas
+usuarios
+id
+usuario
+password
+proyectos
+titulo
+descripcion
+imagen
+github
+demo
+habilidades
+nombre
+porcentaje
+Conexión PHP
+$conn = mysqli_connect(
+ "localhost",
+ "root",
+ "",
+ "portfolio"
+);
+8. BUENAS PRÁCTICAS (5 pts)
+Lo que pide “Excelente”
+
+Código limpio, organizado y reutilizable.
+
+Cómo debe quedar
+Carpetas separadas
+/css
+/js
+/img
+/config
+/includes
+/admin
+CSS separado
+style.css
+responsive.css
+Includes PHP
+include 'includes/navbar.php';
+9. USO DE GITHUB (5 pts)
+Lo que pide “Excelente”
+
+5 commits o más y evidencia clara.
+
+Cómo hacerlo perfecto
+
+Haz commits REALES durante el desarrollo.
+
+Ejemplo ideal
+git commit -m "estructura inicial"
+
+git commit -m "navbar responsive"
+
+git commit -m "login php funcional"
+
+git commit -m "crud proyectos"
+
+git commit -m "responsive mobile"
+
+git commit -m "deploy final"
+10. DOCUMENTACIÓN IA (10 pts)
+Lo que pide “Excelente”
+
+Documenta prompts, herramientas, ajustes y reflexión crítica.
+
+Tu documento debe tener
+1. Herramientas usadas
+ChatGPT
+Figma Make
+GitHub Copilot
+2. Prompts
+
+Ejemplo:
+
+"Crea un login en PHP con sesiones"
+3. Resultado obtenido
+
+Capturas o código.
+
+4. Ajustes realizados
+
+Explica:
+
+“El código generado tuvo errores en la validación y fue corregido manualmente.”
+
+5. Reflexión crítica
+
+Habla sobre:
+
+✅ rapidez
+✅ ventajas
+✅ errores IA
+✅ aprendizaje
+✅ limitaciones
+
+11. DOCUMENTACIÓN GENERAL (5 pts)
+Debes entregar
+
+✅ README.md
+✅ bd.sql
+✅ Figma
+✅ Wireframe
+✅ Proyecto producción
+✅ GitHub
+
+README PERFECTO
+
+Debe incluir:
+
+# Portafolio Web
+
+## Tecnologías
+- HTML5
+- CSS3
+- Bootstrap
+- PHP
+- MySQL
+
+## Producción
+https://teclab.uct.cl/~usuario/
+
+## GitHub
+https://github.com/usuario/repositorio
+12. ENTREGA OPORTUNA (10 pts)
+IMPORTANTÍSIMO
+
+Entrega antes:
+
+24 mayo
+23:59 hrs
+CÓMO DEBERÍA VERSE TU PROYECTO FINAL
+FRONTEND
+Home moderna
+
+✅ Hero section
+✅ Imagen perfil
+✅ Cards
+✅ Progress bars
+✅ Responsive
+
+BACKEND
+
+✅ Login
+✅ Dashboard
+✅ CRUD
+✅ MySQL
+
+DISEÑO
+
+✅ Bootstrap
+✅ Responsive
+✅ Oscuro moderno
+✅ Animaciones suaves
+
+LO QUE MÁS TE SUBIRÁ LA NOTA
+1. CRUD funcional
+
+Muchos no lo terminan.
+
+2. Responsive REAL
+
+El profesor revisará celular.
+
+3. Dashboard profesional
+4. Código ordenado
+5. Defensa técnica
+
+Debes poder explicar TODO.
+
+LO QUE MÁS BAJA PUNTOS
+
+❌ Login falso
+❌ CRUD incompleto
+❌ No responsive
+❌ Código mezclado
+❌ GitHub vacío
+❌ Sin documento IA
+❌ Sin base de datos real
+
+Mi recomendación FINAL para asegurar un 7
+Haz esto:
+Diseño:
+
+Simple pero moderno.
+
+Backend:
+
+Completo y funcional.
+
+Responsive:
+
+Perfecto.
+
+Organización:
+
+Profesional.
+
+Defensa:
+
+Aprende:
+
+sesiones,
+CRUD,
+MySQL,
+Bootstrap,
+responsive,
+GitHub.
+
+Y honestamente, Cristóbal:
+
+Con tu wireframe actual y si haces:
+
+login real,
+CRUD funcional,
+responsive bueno,
+dashboard limpio,
+GitHub activo,
+
+sí tienes posibilidades reales de sacar una nota muy alta aunque el wireframe sea simple.
+
+que código deberían tener los archivos biografia.php, habilidades.php, proyectos.php y tecnologias.php?
+
+Para que tu proyecto cumpla con la rúbrica en nivel Excelente, esos archivos deben funcionar como módulos CRUD del dashboard administrativo.
+
+Es decir:
+
+biografia.php
+→ administrar información personal
+habilidades.php
+→ administrar habilidades técnicas
+tecnologias.php
+→ administrar tecnologías dominadas
+proyectos.php
+→ administrar proyectos
+
+La idea es que TODOS:
+
+conecten con MySQL,
+muestren datos,
+permitan agregar,
+editar,
+eliminar,
+usen Bootstrap,
+tengan formularios ordenados.
+ESTRUCTURA GENERAL DEL DASHBOARD
+
+Tu dashboard debería verse así:
+
+dashboard.php
+│
+├── biografia.php
+├── habilidades.php
+├── tecnologias.php
+└── proyectos.php
+
+Y todos protegidos con login:
+
+session_start();
+
+if(!isset($_SESSION['usuario'])){
+    header("Location: ../login.php");
+}
+1. biografia.php
+¿Qué debe hacer?
+
+Administrar:
+
+nombre
+descripción
+foto
+presentación
+TABLA MYSQL
+CREATE TABLE biografia(
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ nombre VARCHAR(100),
+ descripcion TEXT,
+ foto VARCHAR(255)
+);
+CÓDIGO RECOMENDADO
+biografia.php
+<?php
+include '../config/database.php';
+
+$resultado = mysqli_query($conn, "SELECT * FROM biografia");
+?>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Biografía</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-dark text-white">
+
+<div class="container py-5">
+
+<h2 class="mb-4">Administrar Biografía</h2>
+
+<form action="guardar_biografia.php" method="POST" enctype="multipart/form-data">
+
+<div class="mb-3">
+<label>Nombre</label>
+<input type="text" name="nombre" class="form-control">
+</div>
+
+<div class="mb-3">
+<label>Descripción</label>
+<textarea name="descripcion" class="form-control"></textarea>
+</div>
+
+<div class="mb-3">
+<label>Foto</label>
+<input type="file" name="foto" class="form-control">
+</div>
+
+<button class="btn btn-primary">
+Guardar
+</button>
+
+</form>
+
+<hr>
+
+<?php while($fila = mysqli_fetch_assoc($resultado)){ ?>
+
+<div class="card bg-secondary mb-3">
+
+<div class="card-body">
+
+<h4><?= $fila['nombre'] ?></h4>
+
+<p><?= $fila['descripcion'] ?></p>
+
+<img src="../assets/img/<?= $fila['foto'] ?>" width="150">
+
+</div>
+
+</div>
+
+<?php } ?>
+
+</div>
+
+</body>
+</html>
+2. habilidades.php
+¿Qué debe administrar?
+habilidad
+porcentaje
+TABLA MYSQL
+CREATE TABLE habilidades(
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ nombre VARCHAR(50),
+ porcentaje INT
+);
+CÓDIGO
+<?php
+include '../config/database.php';
+
+$resultado = mysqli_query($conn, "SELECT * FROM habilidades");
+?>
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body class="bg-dark text-white">
+
+<div class="container py-5">
+
+<h2>Administrar Habilidades</h2>
+
+<form action="guardar_habilidad.php" method="POST">
+
+<div class="mb-3">
+
+<label>Habilidad</label>
+
+<input type="text" name="nombre" class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>Porcentaje</label>
+
+<input type="number" name="porcentaje" class="form-control">
+
+</div>
+
+<button class="btn btn-success">
+Guardar
+</button>
+
+</form>
+
+<hr>
+
+<?php while($fila = mysqli_fetch_assoc($resultado)){ ?>
+
+<div class="mb-4">
+
+<h5><?= $fila['nombre'] ?></h5>
+
+<div class="progress">
+
+<div class="progress-bar"
+style="width: <?= $fila['porcentaje'] ?>%">
+
+<?= $fila['porcentaje'] ?>%
+
+</div>
+
+</div>
+
+</div>
+
+<?php } ?>
+
+</div>
+
+</body>
+</html>
+3. tecnologias.php
+¿Qué debe administrar?
+nombre tecnología
+icono
+nivel
+TABLA MYSQL
+CREATE TABLE tecnologias(
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ nombre VARCHAR(50),
+ icono VARCHAR(255),
+ nivel INT
+);
+CÓDIGO
+<?php
+include '../config/database.php';
+
+$resultado = mysqli_query($conn, "SELECT * FROM tecnologias");
+?>
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body class="bg-dark text-white">
+
+<div class="container py-5">
+
+<h2>Tecnologías</h2>
+
+<form action="guardar_tecnologia.php" method="POST">
+
+<div class="mb-3">
+
+<label>Nombre</label>
+
+<input type="text" name="nombre" class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>Ícono FontAwesome</label>
+
+<input type="text" name="icono" class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>Nivel</label>
+
+<input type="number" name="nivel" class="form-control">
+
+</div>
+
+<button class="btn btn-primary">
+Guardar
+</button>
+
+</form>
+
+<hr>
+
+<div class="row">
+
+<?php while($fila = mysqli_fetch_assoc($resultado)){ ?>
+
+<div class="col-md-4 mb-4">
+
+<div class="card bg-secondary text-center p-4">
+
+<i class="<?= $fila['icono'] ?> fa-3x mb-3"></i>
+
+<h4><?= $fila['nombre'] ?></h4>
+
+<p><?= $fila['nivel'] ?>%</p>
+
+</div>
+
+</div>
+
+<?php } ?>
+
+</div>
+
+</div>
+
+</body>
+</html>
+4. proyectos.php
+EL MÁS IMPORTANTE
+
+Porque aquí se verá:
+
+CRUD,
+imágenes,
+GitHub,
+demos.
+TABLA MYSQL
+CREATE TABLE proyectos(
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ titulo VARCHAR(100),
+ descripcion TEXT,
+ imagen VARCHAR(255),
+ github VARCHAR(255),
+ demo VARCHAR(255)
+);
+CÓDIGO
+<?php
+include '../config/database.php';
+
+$resultado = mysqli_query($conn, "SELECT * FROM proyectos");
+?>
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body class="bg-dark text-white">
+
+<div class="container py-5">
+
+<h2>Administrar Proyectos</h2>
+
+<form action="guardar_proyecto.php"
+method="POST"
+enctype="multipart/form-data">
+
+<div class="mb-3">
+
+<label>Título</label>
+
+<input type="text"
+name="titulo"
+class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>Descripción</label>
+
+<textarea name="descripcion"
+class="form-control"></textarea>
+
+</div>
+
+<div class="mb-3">
+
+<label>Imagen</label>
+
+<input type="file"
+name="imagen"
+class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>GitHub</label>
+
+<input type="url"
+name="github"
+class="form-control">
+
+</div>
+
+<div class="mb-3">
+
+<label>Demo</label>
+
+<input type="url"
+name="demo"
+class="form-control">
+
+</div>
+
+<button class="btn btn-success">
+Guardar Proyecto
+</button>
+
+</form>
+
+<hr>
+
+<div class="row">
+
+<?php while($fila = mysqli_fetch_assoc($resultado)){ ?>
+
+<div class="col-md-4 mb-4">
+
+<div class="card bg-secondary h-100">
+
+<img src="../assets/img/proyectos/<?= $fila['imagen'] ?>"
+class="card-img-top">
+
+<div class="card-body">
+
+<h4><?= $fila['titulo'] ?></h4>
+
+<p><?= $fila['descripcion'] ?></p>
+
+<a href="<?= $fila['github'] ?>"
+class="btn btn-dark">
+
+GitHub
+
+</a>
+
+<a href="<?= $fila['demo'] ?>"
+class="btn btn-primary">
+
+Demo
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<?php } ?>
+
+</div>
+
+</div>
+
+</body>
+</html>
+ESTO TE AYUDA MUCHO EN LA RÚBRICA
+✔ PHP & Backend
+
+Porque:
+
+hay conexión real,
+CRUD,
+formularios,
+manejo datos.
+✔ MySQL
+
+Porque:
+
+consultas reales,
+tablas reales.
+✔ Bootstrap
+
+Porque:
+
+cards,
+forms,
+grid system.
+✔ Responsive
+
+Porque Bootstrap ya adapta todo.
+
+QUÉ TE FALTA DESPUÉS
+
+Necesitarás:
+
+Archivos guardar_
+
+Por ejemplo:
+
+guardar_proyecto.php
+guardar_habilidad.php
+guardar_tecnologia.php
+guardar_biografia.php
+También deberías crear
+editar_
+editar_proyecto.php
+eliminar_
+eliminar_proyecto.php
+LO QUE MÁS IMPRESIONARÁ
+
+Si agregas:
+
+SweetAlert2
+AJAX
+Modales Bootstrap
+CRUD sin recargar página
+Mi recomendación REAL
+
+Empieza primero con:
+
+Base de datos
+Login
+proyectos.php
+habilidades.php
+tecnologías.php
+biografía.php
+
+Porque:
+
+proyectos.php te dará más impacto visual,
+dashboard funcional impresiona muchísimo.
+y que me dices de estos archivos?
+Estás dando tu opinión de una versión nueva de ChatGPT.
+¿Qué respuesta prefieres? Las respuestas pueden tardar un poco en cargar.
+ChatGPT
+Respuesta 1
+
+Esos archivos son MUY importantes porque forman la base profesional y organizada del proyecto.
+De hecho, tener esta estructura ya te ayuda directamente en:
+
+✅ Buenas prácticas de desarrollo
+✅ Organización del código
+✅ PHP y Backend
+✅ HTML estructurado
+✅ Reutilización de componentes
+
+Y eso la rúbrica lo premia bastante.
+
+Voy a explicarte exactamente qué debe tener cada archivo para que quede en nivel “Excelente”.
+
+📁 config/database.php
+¿Qué hace?
+
+Se conecta a MySQL.
+
+Todos los archivos PHP lo usarán.
+
+✅ Cómo debería quedar
+<?php
+
+$host = "localhost";
+$usuario = "root";
+$password = "";
+$bd = "portfolio_web";
+
+$conn = mysqli_connect(
+    $host,
+    $usuario,
+    $password,
+    $bd
+);
+
+if(!$conn){
+    die("Error de conexión: " . mysqli_connect_error());
+}
+
+?>
+✅ Qué ganas con esto
+
+✔ Código reutilizable
+✔ Organización profesional
+✔ Fácil mantenimiento
+✔ Mejor backend
+
+📁 includes/auth.php
+¿Qué hace?
+
+Protege las páginas privadas.
+
+Por ejemplo:
+
+dashboard.php
+proyectos.php
+habilidades.php
+✅ Cómo debería quedar
+<?php
+
+session_start();
+
+if(!isset($_SESSION['usuario'])){
+    
+    header("Location: ../login.php");
+    exit();
+
+}
+
+?>
+✅ Cómo usarlo
+
+En TODAS las páginas admin:
+
+<?php
+include '../includes/auth.php';
+?>
+✅ Qué ganas con esto
+
+✔ Seguridad
+✔ Protección login
+✔ Backend funcional
+✔ Mejor evaluación PHP
+
+📁 includes/navbar.php
+¿Qué hace?
+
+Evita repetir el navbar en todas las páginas.
+
+MUY importante para buenas prácticas.
+
+✅ Cómo debería quedar
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+
+<div class="container">
+
+<a class="navbar-brand" href="#">
+Cristóbal Dev
+</a>
+
+<button class="navbar-toggler"
+type="button"
+data-bs-toggle="collapse"
+data-bs-target="#menu">
+
+<span class="navbar-toggler-icon"></span>
+
+</button>
+
+<div class="collapse navbar-collapse" id="menu">
+
+<ul class="navbar-nav ms-auto">
+
+<li class="nav-item">
+<a class="nav-link" href="#biografia">
+Biografía
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#habilidades">
+Habilidades
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#tecnologias">
+Tecnologías
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#proyectos">
+Proyectos
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#contacto">
+Contacto
+</a>
+</li>
+
+<li class="nav-item">
+<a class="btn btn-primary ms-2"
+href="login.php">
+
+Login
+
+</a>
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</nav>
+✅ Cómo usarlo
+
+En index.php:
+
+<?php include 'includes/navbar.php'; ?>
+✅ Qué ganas con esto
+
+✔ Código limpio
+✔ Reutilización
+✔ Mejor estructura
+✔ Bootstrap correcto
+
+📁 includes/footer.php
+¿Qué hace?
+
+Centraliza el footer.
+
+✅ Cómo debería quedar
+<footer class="bg-dark text-center text-white py-4">
+
+<div class="container">
+
+<p>
+© 2026 Cristóbal Cisterna - Portafolio Web
+</p>
+
+<p>
+
+Desarrollado con HTML5, CSS3, Bootstrap, PHP y MySQL
+
+</p>
+
+</div>
+
+</footer>
+✅ Cómo usarlo
+<?php include 'includes/footer.php'; ?>
+🔥 ESTO ES MUY IMPORTANTE
+
+El profesor probablemente revisará:
+
+❌ Si haces esto
+navbar copiado en 8 archivos
+
+pierdes puntos en:
+
+organización,
+buenas prácticas.
+✅ Si haces includes
+include 'navbar.php';
+
+te ves MUCHO más profesional.
+
+CÓMO DEBERÍA FUNCIONAR TODO
+index.php
+<?php include 'includes/navbar.php'; ?>
+
+contenido
+
+<?php include 'includes/footer.php'; ?>
+dashboard.php
+<?php include 'includes/auth.php'; ?>
+<?php include 'includes/navbar.php'; ?>
+proyectos.php
+<?php include '../includes/auth.php'; ?>
+ESTRUCTURA FINAL IDEAL
+portfolio-web/
+│
+├── index.php
+├── login.php
+├── logout.php
+├── dashboard.php
+│
+├── config/
+│   └── database.php
+│
+├── includes/
+│   ├── auth.php
+│   ├── navbar.php
+│   └── footer.php
+│
+├── admin/
+│   ├── proyectos.php
+│   ├── habilidades.php
+│   ├── tecnologias.php
+│   └── biografia.php
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── img/
+│
+├── sql/
+│   └── bd.sql
+│
+└── README.md
+ESTO TE DA MUCHOS PUNTOS
+✔ Buenas prácticas
+
+Porque:
+
+reutilizas código,
+organizas carpetas,
+separas responsabilidades.
+✔ PHP y Backend
+
+Porque:
+
+login real,
+includes,
+protección sesión.
+✔ HTML semántico
+
+Porque:
+
+estructura limpia.
+✔ Bootstrap
+
+Porque:
+
+navbar responsive,
+footer limpio.
+PEQUEÑO DETALLE QUE IMPRESIONA MUCHO
+
+En navbar.php agrega:
+
+<?= date("Y") ?>
+
+Ejemplo:
+
+© <?= date("Y") ?> Cristóbal
+
+Eso demuestra dominio PHP básico dinámico.
+
+MI RECOMENDACIÓN
+
+Los archivos MÁS importantes realmente son:
+
+1. database.php
+
+Base de todo.
+
+2. auth.php
+
+Seguridad.
+
+3. proyectos.php
+
+Impacto visual + CRUD.
+
+4. dashboard.php
+
+Impresiona mucho en defensa.
+
+Y honestamente, viendo cómo estás organizando el proyecto:
+
+✅ Ya vas muchísimo más ordenado que la mayoría de proyectos estudiantiles.
+
+Prefiero esta respuesta
+ChatGPT
+Respuesta 2
+
+Esos archivos son MUY importantes porque son la base de la organización profesional del proyecto.
+De hecho, tenerlos bien hechos te ayuda directamente en:
+
+✅ Buenas prácticas
+✅ PHP & Backend
+✅ Organización del código
+✅ HTML estructurado
+✅ Reutilización
+✅ Defensa técnica
+
+Y honestamente, el profesor probablemente revisará exactamente esto.
+
+📁 config/database.php
+¿Para qué sirve?
+
+Centraliza la conexión a MySQL.
+
+Así no repites código en todos los archivos.
+
+✅ Cómo debería quedar
+<?php
+
+$host = "localhost";
+$usuario = "root";
+$password = "";
+$bd = "portfolio_web";
+
+$conn = mysqli_connect(
+    $host,
+    $usuario,
+    $password,
+    $bd
+);
+
+if(!$conn){
+    die("Error de conexión: " . mysqli_connect_error());
+}
+
+?>
+✅ Por qué esto da puntos
+
+Porque demuestra:
+
+código reutilizable,
+organización,
+buenas prácticas,
+backend limpio.
+❌ Lo que NO debes hacer
+mysqli_connect("localhost","root","","bd");
+
+repetido en TODOS los archivos.
+
+Eso baja puntos por desorden.
+
+📁 includes/auth.php
+¿Para qué sirve?
+
+Protege las páginas privadas.
+
+Por ejemplo:
+
+dashboard.php
+proyectos.php
+habilidades.php
+✅ Cómo debería quedar
+<?php
+
+session_start();
+
+if(!isset($_SESSION['usuario'])){
+    header("Location: ../login.php");
+    exit();
+}
+
+?>
+✅ Cómo usarlo
+
+En cada página admin:
+
+<?php
+include '../includes/auth.php';
+?>
+✅ Qué demuestra esto
+
+✔ Seguridad básica
+✔ Manejo de sesiones
+✔ Protección backend
+
+Eso da MUCHOS puntos.
+
+📁 includes/navbar.php
+¿Para qué sirve?
+
+Reutilizar la barra navegación en todas las páginas.
+
+✅ Cómo debería quedar
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+
+<div class="container">
+
+<a class="navbar-brand" href="#">
+Cristóbal Dev
+</a>
+
+<button class="navbar-toggler"
+type="button"
+data-bs-toggle="collapse"
+data-bs-target="#menu">
+
+<span class="navbar-toggler-icon"></span>
+
+</button>
+
+<div class="collapse navbar-collapse" id="menu">
+
+<ul class="navbar-nav ms-auto">
+
+<li class="nav-item">
+<a class="nav-link" href="#biografia">
+Biografía
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#habilidades">
+Habilidades
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#tecnologias">
+Tecnologías
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#proyectos">
+Proyectos
+</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#contacto">
+Contacto
+</a>
+</li>
+
+<li class="nav-item">
+<a class="btn btn-primary ms-2"
+href="login.php">
+Login
+</a>
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</nav>
+✅ Cómo usarlo
+
+En index.php:
+
+<?php include 'includes/navbar.php'; ?>
+✅ Qué demuestra esto
+
+✔ Reutilización
+✔ Bootstrap correcto
+✔ Código limpio
+✔ Responsive navbar
+
+📁 includes/footer.php
+¿Para qué sirve?
+
+Mantener un footer reutilizable.
+
+✅ Cómo debería quedar
+<footer class="bg-dark text-white text-center py-4">
+
+<div class="container">
+
+<p>
+© 2026 Cristóbal Cisterna -
+Portafolio Profesional
+</p>
+
+<div>
+
+<a href="#" class="text-white me-3">
+GitHub
+</a>
+
+<a href="#" class="text-white me-3">
+LinkedIn
+</a>
+
+<a href="#" class="text-white">
+Correo
+</a>
+
+</div>
+
+</div>
+
+</footer>
+✅ Cómo usarlo
+<?php include 'includes/footer.php'; ?>
+📁 ¿Por qué esta estructura es TAN importante?
+
+Porque esto:
+
+includes/
+config/
+admin/
+assets/
+
+hace que tu proyecto parezca:
+
+✅ profesional
+✅ modular
+✅ mantenible
+
+Y eso sube muchísimo la percepción del profesor.
+
+ESTRUCTURA PROFESIONAL FINAL
+
+Tu proyecto debería quedar así:
+
+portfolio-web/
+
+│ index.php
+│ login.php
+│ logout.php
+│ dashboard.php
+
+├── admin/
+│   ├── biografia.php
+│   ├── habilidades.php
+│   ├── tecnologias.php
+│   ├── proyectos.php
+
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   │
+│   ├── js/
+│   │   ├── app.js
+│   │
+│   ├── img/
+
+├── config/
+│   ├── database.php
+
+├── includes/
+│   ├── auth.php
+│   ├── navbar.php
+│   ├── footer.php
+
+├── sql/
+│   ├── bd.sql
+
+├── docs/
+│   ├── uso_ia.pdf
+│   ├── wireframe.png
+
+└── README.md
+ESTO ES LO QUE MÁS TE VA A AYUDAR
+El profesor verá:
+✔ Organización
+✔ Separación lógica
+✔ Reutilización
+✔ Backend profesional
+
+Y eso automáticamente da sensación de:
+
+“este estudiante sí entiende desarrollo web”.
+
+Mi recomendación IMPORTANTE
+
+Haz TODO modular.
+
+Por ejemplo:
+
+NO hagas esto
+<nav>...</nav>
+<footer>...</footer>
+
+en cada archivo.
+
+SÍ haz esto
+include 'includes/navbar.php';
+include 'includes/footer.php';
+BONUS QUE TE AYUDA EN LA DEFENSA
+
+Si te preguntan:
+
+“¿Por qué usaste includes?”
+
+Responde:
+
+“Para reutilizar componentes y evitar duplicación de código, facilitando mantenimiento y escalabilidad.”
+
+Esa respuesta suena MUY profesional y suma muchísimo en la defensa técnica.
+
+Prefiero esta respuesta
